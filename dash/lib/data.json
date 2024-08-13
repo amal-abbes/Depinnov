@@ -1,0 +1,23 @@
+[{"datetime":"2021-09-01 00:00:00","user1_production":0.713,"user1_consumption":96.59,"user2_production":0.0,"user2_consumption":26.628},
+{"datetime":"2021-09-01 01:00:00","user1_production":1.132,"user1_consumption":77.691,"user2_production":0.0,"user2_consumption":24.001},
+{"datetime":"2021-09-01 02:00:00","user1_production":0.49,"user1_consumption":91.594,"user2_production":0.0,"user2_consumption":23.926},
+{"datetime":"2021-09-01 03:00:00","user1_production":0.496,"user1_consumption":87.955,"user2_production":0.0,"user2_consumption":26.02},
+{"datetime":"2021-09-01 04:00:00","user1_production":0.149,"user1_consumption":88.184,"user2_production":0.0,"user2_consumption":22.363},
+{"datetime":"2021-09-01 05:00:00","user1_production":0.298,"user1_consumption":89.781,"user2_production":0.0,"user2_consumption":22.448},
+{"datetime":"2021-09-01 06:00:00","user1_production":1.271,"user1_consumption":96.481,"user2_production":2.863,"user2_consumption":21.551},
+{"datetime":"2021-09-01 07:00:00","user1_production":22.122,"user1_consumption":94.592,"user2_production":33.542,"user2_consumption":17.468},
+{"datetime":"2021-09-01 08:00:00","user1_production":64.257,"user1_consumption":77.308,"user2_production":106.034,"user2_consumption":5.744},
+{"datetime":"2021-09-01 09:00:00","user1_production":170.312,"user1_consumption":54.211,"user2_production":194.731,"user2_consumption":4.38},
+{"datetime":"2021-09-01 10:00:00","user1_production":286.533,"user1_consumption":36.071,"user2_production":238.425,"user2_consumption":5.34},
+{"datetime":"2021-09-01 11:00:00","user1_production":391.054,"user1_consumption":31.147,"user2_production":244.659,"user2_consumption":6.771},
+{"datetime":"2021-09-01 12:00:00","user1_production":480.938,"user1_consumption":26.138,"user2_production":237.149,"user2_consumption":7.466},
+{"datetime":"2021-09-01 13:00:00","user1_production":422.591,"user1_consumption":37.784,"user2_production":257.07,"user2_consumption":5.84},
+{"datetime":"2021-09-01 14:00:00","user1_production":303.12,"user1_consumption":45.512,"user2_production":269.225,"user2_consumption":4.836},
+{"datetime":"2021-09-01 15:00:00","user1_production":208.335,"user1_consumption":49.021,"user2_production":226.957,"user2_consumption":5.354},
+{"datetime":"2021-09-01 16:00:00","user1_production":225.405,"user1_consumption":39.982,"user2_production":128.483,"user2_consumption":7.434},
+{"datetime":"2021-09-01 17:00:00","user1_production":136.324,"user1_consumption":58.293,"user2_production":72.998,"user2_consumption":13.903},
+{"datetime":"2021-09-01 18:00:00","user1_production":61.903,"user1_consumption":72.92,"user2_production":39.93,"user2_consumption":21.783},
+{"datetime":"2021-09-01 19:00:00","user1_production":10.703,"user1_consumption":109.22,"user2_production":5.797,"user2_consumption":27.613},
+
+{"datetime":"2023-05-31 23:00:00","user1_production":2.921,"user1_consumption":544.221,"user2_production":0.084,"user2_consumption":40.915}
+]
